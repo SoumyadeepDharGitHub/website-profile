@@ -1,0 +1,14 @@
+{
+  "name": "soumyadeep-dhar-personal-website",
+  "version": "1.0.0",
+  "description": "personal profile page of soumyadeep dhar",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "Soumyadeep Dhar",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
