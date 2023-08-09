@@ -1,5 +1,12 @@
 .header
 {
-    background-image: url(../images/header-bg-image.jpg);
-    
+    &__image
+    {
+        background-image:url(../images/matte-black-setup.jpg);
+        background-position:center;
+        background-size: cover;
+        height: 40rem;
+        
+    }    
 }
+
